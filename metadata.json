@@ -1,0 +1,6 @@
+{
+  "name": "CircuitCraft",
+  "description": "Interactive electronics workbench to build circuits with batteries, resistors, switches, capacitors, and LEDs, with real-time nodal voltage and current simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
